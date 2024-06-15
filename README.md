@@ -1,4 +1,4 @@
-# BCE Proiect
+# Bazele Ciberneticii Economice Proiect Netlogo
 
 Proiectul meu NetLogo simulează activitatea unei echipe de constructori care construiesc un drum principal și locuințe în proximitate. Fiecare agent (constructor) are două variabile endogene: nivelul de foame și nivelul de energie. La fiecare patch construit, aceștia pierd o cantitate de energie variabilă, selectată aleator între 5 și 15, reflectând ritmul individual de lucru.
 
